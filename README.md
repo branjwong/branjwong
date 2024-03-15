@@ -1,3 +1,6 @@
+> [!TIP]
+> Right now I am interested in **blockchain security research**! 🌐⛓️ 
+
 Hi! 👋🏼 I'm Brandon, a Software Engineer based in Vancouver, Canada.
 
 With over 5 years of experience in software development, I love solving complex problems and building seamless experiences. 
