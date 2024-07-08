@@ -1,5 +1,5 @@
 > [!TIP]
-> Right now I am interested in **blockchain security research**! 🌐⛓️ 
+> Right now I am interested in **front-end web development and hosting**! 🌐⛓️ 
 
 Hi! 👋🏼 I'm Brandon, a Software Engineer based in Vancouver, Canada.
 
@@ -23,15 +23,14 @@ and make credit decisions
 
 —-
 
-When I'm not on VS Code, you can find me: 
+When I'm not building for the web, you can find me: 
 - 🏐 Playing volleyball, rain or shine
-- 💪 Doing pilates with my girlfriend
 - 🎤 Singing with my mates at karaoke
+- 💪 Doing RDLs at the gym
 
 Want to learn more? Feel free to email me at branjwong (at) hey.com
 
 ---
 
 Areas of Expertise: C#, JavaScript, NodeJs, Azure, Architectural Design
-
 Tools: VSCode, Docker, LucidChart, Jira & Confluence, HTML & CSS
